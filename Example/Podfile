@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PShareView_Example' do
+  pod 'PShareView', :path => '../'
+
+  target 'PShareView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
