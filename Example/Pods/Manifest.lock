@@ -1,0 +1,16 @@
+PODS:
+  - PShareView (0.1.0)
+
+DEPENDENCIES:
+  - PShareView (from `../`)
+
+EXTERNAL SOURCES:
+  PShareView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PShareView: e458c76139699639ef1806746ba536f7504d91d6
+
+PODFILE CHECKSUM: 9eb98eecf184de944cbe4eba376debedd3c8d5f7
+
+COCOAPODS: 1.8.0.beta.2

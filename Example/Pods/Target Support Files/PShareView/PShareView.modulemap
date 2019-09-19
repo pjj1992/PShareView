@@ -1,0 +1,6 @@
+framework module PShareView {
+  umbrella header "PShareView-umbrella.h"
+
+  export *
+  module * { export * }
+}
